@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tvs:home|Door43 (tvs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tvs|d43-tvs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tvs/archive/master.zip|d43-tvs.zip]]
+
+**Recent Changes**
+{{changes>ns = tvs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tvs|Ethnologue data]]
+
